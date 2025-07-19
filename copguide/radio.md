@@ -5,3 +5,10 @@ There is a plethora of other channels, all with notes, so you know which one to 
 To access the Radio settings **Open the Interaction Menu -> Open the Job Menu -> Open Radio**
 
 **You can also use the radio using the [! yourtext] chat command, then your messages show up in the chat, only for players connected to the radio.**
+
+These *are* my *changes* ~~aaaaaaa~~
+1. List
+2. Item
+
+- Unordered list
+- 2
